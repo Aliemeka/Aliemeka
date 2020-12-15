@@ -14,8 +14,3 @@ Is it weird that I'm a tea person.
 > The path to knowledge is always clearer
 > when you help others achieve great things.
 > Together, you can all change the world!
-
-
-### Not related
-
-I love chicken and milk
