@@ -6,11 +6,11 @@
 ## Things I love to do besides code!
 
   - Sing, compose music and listen to music
-  - Create creative designs of my friends that I use to surprise them on their birthdays
+  - Create creative designs
   - I run a podcast
   - I also love playing with my dogs and imaginary fighting with my bros.
+  - Help people who are new in coding
   
-Is it weird that I'm a tea person.
 > The path to knowledge is always clearer
 > when you help others achieve great things.
 > Together, you can all change the world!
