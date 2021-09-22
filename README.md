@@ -11,4 +11,4 @@
   - I also love playing with my dogs and imaginary fighting with my bros.
   - Help people who are new in coding
   
-  [![Emeka's github stats](https://github-readme-stats.vercel.app/api?username=Aliemeka&count_private=true&show_icons=true&theme=gotham)](https://github.com/murewaashiru/github-readme-stats)
+  [![Emeka's github stats](https://github-readme-stats.vercel.app/api?username=Aliemeka&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/murewaashiru/github-readme-stats)
