@@ -27,6 +27,7 @@
   - Nest.js
   - Actix web
   - Turborepo
+  - GCP & AWS
   - Nx
   - Vite
   - Astro
