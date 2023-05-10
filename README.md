@@ -19,19 +19,19 @@ I build experiences ✨
 - Rust 🦀
 
 ## Core Technologies I work with
-- Next.js
-- .NET
-- FastAPI
-- Docker
-- Django
-- Nest.js
-- Actix web
-- Turborepo
-- Nx
-- Vite
-- Astro
-- Trpc
-- Substrate
+  - Next.js
+  - .NET
+  - FastAPI
+  - Docker
+  - Django
+  - Nest.js
+  - Actix web
+  - Turborepo
+  - Nx
+  - Vite
+  - Astro
+  - Trpc
+  - Substrate
 
   
   [![Emeka's github stats](https://github-readme-stats.vercel.app/api?username=Aliemeka&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/murewaashiru/github-readme-stats)
