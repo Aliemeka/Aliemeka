@@ -12,11 +12,12 @@
 
 
 ## Languages
-- Typescript ✨
-- Python 🐍
-- Go 🐹
-- C# #️⃣
-- Rust 🦀
+ - Typescript ✨
+ - Python 🐍
+ - Go 🐹
+ - C# #️⃣
+ - Rust 🦀
+
 
   
   [![Emeka's github stats](https://github-readme-stats.vercel.app/api?username=Aliemeka&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/murewaashiru/github-readme-stats)
