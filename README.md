@@ -1,7 +1,10 @@
 # Hi! I'm Emeka
-
+## About
  I'm a software engineer at Nestcoin and founder of Dome Initiative. I'm a builder by passion. I specialize in building solutions that empower every member of society, particularly in the finance and ed-tech space
 
+## Projects I'm building
+- Dome Academy [visit](https://thedomeacademy.com)
+- Spit.sh [visit](https://spit.sh)
 
 ## Languages
  - Typescript ✨
