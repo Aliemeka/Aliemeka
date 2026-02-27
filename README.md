@@ -8,13 +8,11 @@ I care about clean architecture, developer experience, and shipping things that 
 
 ### 🔨 What I'm Building
 
-| Project | Description |
-|---|---|
 | [**The Dome Academy**](https://thedomeacademy.com) | A coding education platform running cohort-based, project-driven web development training (BuildAlong program) |
 | [**Spit.sh**](https://spit.sh) | Developer tooling for the modern workflow |
 
 
-### ⚡ Tech Stack
+### Tech Stack
 
 **Languages**
 
@@ -34,14 +32,8 @@ I care about clean architecture, developer experience, and shipping things that 
 ![Tokio](https://img.shields.io/badge/Tokio-000000?style=flat&logo=rust&logoColor=white)
 
 
-### 📊 GitHub Stats
 
-[![Emeka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aliemeka&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Aliemeka)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aliemeka&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Aliemeka)
-
-
-### 📬 Let's Connect
+### Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/chukwuemeka-allison)
 [![Twitter](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/alliemeka)
