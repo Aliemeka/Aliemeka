@@ -6,8 +6,6 @@ I build products that solve real problems — particularly across **fintech** an
 
 I care about clean architecture, developer experience, and shipping things that actually work.
 
----
-
 ### 🔨 What I'm Building
 
 | Project | Description |
@@ -15,7 +13,6 @@ I care about clean architecture, developer experience, and shipping things that 
 | [**The Dome Academy**](https://thedomeacademy.com) | A coding education platform running cohort-based, project-driven web development training (BuildAlong program) |
 | [**Spit.sh**](https://spit.sh) | Developer tooling for the modern workflow |
 
----
 
 ### ⚡ Tech Stack
 
@@ -36,14 +33,12 @@ I care about clean architecture, developer experience, and shipping things that 
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 ![Tokio](https://img.shields.io/badge/Tokio-000000?style=flat&logo=rust&logoColor=white)
 
----
 
 ### 📊 GitHub Stats
 
 [![Emeka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aliemeka&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Aliemeka)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aliemeka&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Aliemeka)
 
----
 
 ### 📬 Let's Connect
 
