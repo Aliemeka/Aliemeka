@@ -2,7 +2,7 @@
 
 **Software Engineer · Founder · Builder**
 
-I build products that solve real problems — particularly across **fintech** and **ed-tech** in Africa. I'm the founder of [The Dome Academy](https://thedomeacademy.com), where I'm making hands-on software engineering education more accessible. Previously, I've shipped production systems at **Onboard Global (Nestcoin)**, **Tenece**, and **Blinqpay** — spanning payment infrastructure, exchange platforms, and full-stack product development.
+I build products that solve real problems — particularly across **fintech** and **ed-tech** worldwide. I'm the founder of [The Dome Academy](https://thedomeacademy.com), where I'm making hands-on software engineering education more accessible. Previously, I've shipped production systems at **Onboard Global (Nestcoin)**, **Tenece**, and **Blinqpay** — spanning payment infrastructure, exchange platforms, and full-stack product development.
 
 I care about clean architecture, developer experience, and shipping things that actually work.
 
