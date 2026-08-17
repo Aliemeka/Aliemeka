@@ -8,8 +8,9 @@ I care about clean architecture, developer experience, and shipping things that 
 
 ### 🔨 What I'm Building
 
-| [**Dome Academy**](https://thedomeacademy.com) | A coding education platform running cohort-based, project-driven web development training (BuildAlong program) |
-| [**Spit.sh**](https://spit.sh) | URL shorterner for modern businesses | Horizon | A graph based learning explorer (think of it like Obsidian) but with AI topics and visualizations (WLP)
+- [**Dome Academy**](https://thedomeacademy.com) | A coding education platform running cohort-based, project-driven web development training (BuildAlong program)
+- [**Spit.sh**](https://spit.sh) | URL shorterner for modern businesses
+- Horizon | A graph based learning explorer (think of it like Obsidian) but with AI topics and visualizations (WLP)
 
 
 ### Tech Stack
